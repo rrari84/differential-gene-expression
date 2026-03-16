@@ -1,4 +1,4 @@
-# gene-expression-final-project  
+# Differential Gene Expression Reproducibility Project  
 
 ## Members  
 Areeba Rahu  
